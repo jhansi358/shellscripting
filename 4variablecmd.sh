@@ -1,3 +1,3 @@
 #!/bin/bash
 DATE=$(date) #date is command
-echo"script executing at: $DATE"
+echo "script executing at: $DATE"
